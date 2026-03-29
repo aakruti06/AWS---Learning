@@ -1,0 +1,7 @@
+Created Buckets.
+Objects - Create, Use, Delete.
+Objects - Upload files, created multiple versions from accidental deletion.
+Objects - Replicated - SRR(Same region replication) and CRR(Cross region replication)
+Objects - Storage classes : Standard, Infrequent Access, One SOne Infrequent Access, Glacier(Instant, Flexible, Deep)
+Snowball - Physical device to transfer data from AWS AZ infrastructure to on-premises.
+Storage Gateway - Hybrid storage services to allow on-premises seamlessly use the AWS cloud. Types : Files, Volumes, Tapes.
