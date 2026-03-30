@@ -1,0 +1,8 @@
+Day 2
+
+Created a new repo in github.
+git add, commit and push a new file to the version1
+
+new file name - home_door.html
+
+
